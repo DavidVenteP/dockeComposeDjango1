@@ -1,0 +1,4 @@
+# ignore db of data to avoid errors about it
+data\db
+/data/db
+data/db
